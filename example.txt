@@ -1,0 +1,3 @@
+This is an created file
+It was created using the cat commad
+It contains two lines of text
